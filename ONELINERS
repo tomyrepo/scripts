@@ -3,3 +3,6 @@ In MySql To filter show full processlist
 use \P grep STRING
 
 \n - to unset it
+
+
+
